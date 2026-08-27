@@ -4,3 +4,4 @@ This repo was created for a practical class on how to contribute to a git projec
 
 ## Contributors
 - <a href="ebunilo.html">Ebunilo Igwilo</a>
+- <a href="ebunilo.html">Emecheta Jacinta </a>
