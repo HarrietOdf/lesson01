@@ -8,3 +8,4 @@ This repo was created for a practical class on how to contribute to a git projec
 - <a href="jacinta.html">Emecheta Jacinta </a>
 - <a href="muhammed.html">Muhammed Babakano Umar</a>
 - <a href="thankgodntem.html">ThankGod Ntem</a>
+- <a href="benita.html">Benita Oswald</a>
