@@ -1,5 +1,7 @@
 # Git Tutorial practicals for Pods 5 & 7
 
+# Git Tutorial practicals for Pods 5 & 7
+
 This repo was created for a practical class on how to contribute to a git project.
 
 ## Contributors
@@ -8,3 +10,5 @@ This repo was created for a practical class on how to contribute to a git projec
 - <a href="jacinta.html">Emecheta Jacinta </a>
 - <a href="muhammed.html">Muhammed Babakano Umar</a>
 - <a href="thankgodntem.html">ThankGod Ntem</a>
+- <a href="bisolaadebola.html">Bisola Adebola</a>
+
