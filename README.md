@@ -6,3 +6,5 @@ This repo was created for a practical class on how to contribute to a git projec
 - <a href="ebunilo.html">Ebunilo Igwilo</a>
 - <a href="nwaforchukwunonso.html">Nwafor Chukwunonso</a>
 - <a href="jacinta.html">Emecheta Jacinta </a>
+- <a href="muhammed.html">Muhammed Babakano Umar</a>
+
