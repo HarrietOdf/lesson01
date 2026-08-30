@@ -10,3 +10,4 @@ This repo was created for a practical class on how to contribute to a git projec
 - <a href="thankgodntem.html">ThankGod Ntem</a>
 - <a href="benita.html">Benita Oswald</a>
 - <a href="chizoba.html">Chizoba Ajemba</a>
+- <a href="Benjamin.html">Benjamin</a>
