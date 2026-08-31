@@ -14,3 +14,4 @@ This repo was created for a practical class on how to contribute to a git projec
 - <a href="chizoba.html">Chizoba Ajemba</a>
 - <a href="bisolaadebola.html">Bisola Adebola</a>
 - <a href="Benjamin.html">Benjamin</a>
+- <a href="julietaham.html">julietaham</a>
